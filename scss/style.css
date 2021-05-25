@@ -100,7 +100,7 @@ html {
   text-align: center;
   max-width: 60%;
   margin: auto;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 
 .features-container {
@@ -133,6 +133,11 @@ html {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.computer-photo {
+  position: absolute;
+  left: -60px;
 }
 
 .features {
